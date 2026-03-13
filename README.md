@@ -43,6 +43,7 @@ Validated the system using **ROC-AUC Curves** and **Confusion Matrices**. The ev
 * **Sindhu M**
 * **Kiran Reddy T R**
 * **Sonali P Bhasme**
+* **Swati Jadhav**
 
 ###  Data Cleaning & Preprocessing Team
 *Responsible for local node normalization, handling missing values, and engineering metrics such as BMI and HRV.*
@@ -52,7 +53,6 @@ Validated the system using **ROC-AUC Curves** and **Confusion Matrices**. The ev
 
 ###  Evaluation Metrics Team
 *Focused on ROC-AUC generation, performance validation, and ensuring the reduction of False Negatives.*
-* **Swati Jadhav**
 * **GVS Manashwi Roy**
 * **Wafaa S M Abukallousah**
 * **Maulya Naik**
