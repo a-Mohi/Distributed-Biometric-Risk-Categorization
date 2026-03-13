@@ -1,10 +1,10 @@
-# Distributed Biometric Risk Categorization 🏥
+# Distributed Biometric Risk Categorization 
 
 This repository implements a **Distributed Healthcare Monitoring System** designed to categorize patient health risks using bio-sensor data. Leveraging a large-scale dataset of **200,020 records**, the system simulates a distributed environment across hospital wards to identify critical medical cases while strictly prioritizing patient safety through the minimization of **False Negatives**.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 * **Architecture:** Distributed Node Processing (Simulated Wards A, B, and C).
 * **Data Scale:** 200,000+ Human Vital Sign & Clinical Metric records.
@@ -13,7 +13,7 @@ This repository implements a **Distributed Healthcare Monitoring System** design
 
 ---
 
-## 🛠️ Project Workflow
+##  Project Workflow
 
 ### Day 1: Distributed Data Splitting
 Implemented data sovereignty and privacy principles by partitioning the global dataset into three independent, ward-level nodes. This ensures that data is processed locally, simulating a real-world secure hospital network.
@@ -29,28 +29,28 @@ Validated the system using **ROC-AUC Curves** and **Confusion Matrices**. The ev
 
 ---
 
-## 👥 Contributors & Team Structure
+##  Contributors & Team Structure
 
-### 🏗️ Model Development Team
+###  Model Development Team
 *Focused on Random Forest architecture, safety fine-tuning, and algorithmic optimization.*
 * **Ammar Mohiuddin** (President)
 * **Anand Murthy R** (Secretary)
 * **Mohammed Zaid Ali**
 * **Athish Prajwal GR** (Deputy Secretary)
 
-### 📊 EDA Team (Exploratory Data Analysis)
+###  EDA Team (Exploratory Data Analysis)
 *Responsible for feature correlation, physiological threshold identification, and vital sign distribution analysis.*
 * **Sindhu M**
 * **Kiran Reddy T R**
 * **Sonali P Bhasme**
 
-### 🧹 Data Cleaning & Preprocessing Team
+###  Data Cleaning & Preprocessing Team
 *Responsible for local node normalization, handling missing values, and engineering metrics such as BMI and HRV.*
 * **Suha Maria** (Vice President)
 * **Deepshikha Vishwakarma**
 * **Aradhana Prajapati**
 
-### 📈 Evaluation Metrics Team
+###  Evaluation Metrics Team
 *Focused on ROC-AUC generation, performance validation, and ensuring the reduction of False Negatives.*
 * **Swati Jadhav**
 * **GVS Manashwi Roy**
@@ -59,7 +59,7 @@ Validated the system using **ROC-AUC Curves** and **Confusion Matrices**. The ev
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 * **Sensitivity (Recall):** Successfully optimized to >99%, ensuring near-zero missed critical cases.
 * **ROC AUC:** Demonstrated exceptional separability between health risk categories.
